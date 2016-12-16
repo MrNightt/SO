@@ -1,0 +1,133 @@
+1
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	2
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	3
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	4
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	5
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	6
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	7
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	8
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	9
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	10
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	11
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	12
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	13
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	14
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	15
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	16
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	17
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	18
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	19
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	20
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	21
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	22
+From: client@universidadeeuropeia.pt
+To: @universidadeeuropeia.pt
+Subject:  
+Body: 
+Filter1  
+isSpam: true	
