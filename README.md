@@ -1,2 +1,2 @@
 # SO
-Java socket test with an EmailApp with spam filters
+Java socket test with an Email server/client implementation with spam filters.
